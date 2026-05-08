@@ -16,6 +16,7 @@
 * [ag-grid](http://ag-grid.com/) - Serious data grid solution for Enterprise. It supports major javascript frameworks:  
 Angular 1, Angular2, Aurelia, React, VueJs, Web Components.  
 It has both free and commercial licences.  Free is limited on features.
+* [Bilig](https://github.com/proompteng/bilig) - MIT TypeScript headless spreadsheet/workbook engine for Node services and agents. It focuses on formulas, structural edits, range reads, and JSON persistence rather than visual grid rendering.
 * [Bryntum Grid](https://bryntum.com/products/grid/) - A rich JS data grid component that integrates with React, Vue and Angular.  
 * [FancyGrid](http://fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 There is a big form module.  
